@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Secuenciales.iml" filepath="$PROJECT_DIR$/Secuenciales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secuencialesprj/secuencialesprj.iml" filepath="$PROJECT_DIR$/secuencialesprj/secuencialesprj.iml" />
     </modules>
   </component>
 </project>
